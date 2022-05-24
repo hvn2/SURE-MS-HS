@@ -1,8 +1,9 @@
 # SURE-MS-HS <br>
-Pytorch codes for the paper "Hyperspectral super-resolution by unsupervised convolutional neural network and SURE"<br>
+Pytorch codes for the paper "Hyperspectral super-resolution by unsupervised convolutional neural network and SURE", accepted in the IGARSS 2022, Kuala Lumpur, July 2022.<br>
 **Han V. Nguyen**$^\ast$, **Magnus O. Ulfarsson**$^\ast$,  **Johannes R. Sveinsson**$^\ast$, and **Mauro Dalla Mura**$^\dagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
-$^\dagger$ GIPSA-Lab, Grenoble Institute of Technology, Saint Martin d’Hères, France.
+$^\dagger$ GIPSA-Lab, Grenoble Institute of Technology, Saint Martin d’Hères, France <br>
+Email: hvn2@hi.is
 <br>
 <br>
 ## Abstract:<br>
