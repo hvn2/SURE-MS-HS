@@ -1,5 +1,5 @@
 # SURE-MS-HS <br>
-Offical Python codes for the paper "Hyperspectral super-resolution by unsupervised convolutional neural network and SURE", in Proceeding of IGARSS 2022, Kuala Lumpur, July 2022.<br>
+Offical Python codes for the paper "Hyperspectral super-resolution by unsupervised convolutional neural network and SURE", in Proceeding of IGARSS 2022, Kuala Lumpur, July 2022.<br><br>
 **Authors:** Han V. Nguyen $^\ast \dagger$, Magnus O. Ulfarsson $^\ast$,  Johannes R. Sveinsson $^\ast$, and Mauro Dalla Mura $^\ddagger$ <br>
 $^\ast$ Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
 $^\dagger$ Department of Electrical and Electronic Engineering, Nha Trang University, Khanh Hoa, Vietnam<br>
